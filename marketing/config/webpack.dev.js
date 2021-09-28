@@ -23,6 +23,7 @@ const devConfig = {
         new HtmlWebpackPlugin({
             template: './public/index.html'
         })
+
     ]
 }
 
